@@ -1,4 +1,4 @@
-Driver Drowsiness Detection Using CNN
+Driver Drowsiness Detection Using CNN - 
 A deep learning system that detects driver drowsiness in real-time using Convolutional Neural Networks (CNN). This project aims to enhance road safety by identifying signs of driver fatigue and alerting users before potential accidents occur.
 Overview
 This system uses computer vision and deep learning techniques to analyze driver facial expressions and detect drowsiness with high accuracy. The model achieved 99.93% accuracy on the test dataset, making it suitable for real-world applications in vehicle safety systems.
