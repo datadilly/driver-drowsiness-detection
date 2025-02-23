@@ -13,13 +13,13 @@ Support for various input image conditions
 Technical Architecture
 The CNN model consists of:
 
-Three convolutional layers with 3x3 filters
-Max pooling layers (2x2 windows)
-Dropout layer (0.5) for preventing overfitting
-ReLU activation in hidden layers
-Sigmoid activation for final classification
-Binary Cross-Entropy loss function
-Adam optimizer with learning rate 1e-4
+- Three convolutional layers with 3x3 filters
+- Max pooling layers (2x2 windows)
+- Dropout layer (0.5) for preventing overfitting
+- ReLU activation in hidden layers
+- Sigmoid activation for final classification
+- Binary Cross-Entropy loss function
+- Adam optimizer with learning rate 1e-4
 
 Dataset
 The model was trained on the Driver Drowsiness Dataset from Kaggle, containing:
